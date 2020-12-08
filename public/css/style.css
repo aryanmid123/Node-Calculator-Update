@@ -1,0 +1,26 @@
+input[type="button"] {
+  background: red;
+  /* width: 20%; */
+  /* font-size: 40px; */
+  font-weight: 500;
+  margin: 2%;
+  border-radius: 4px;
+}
+
+input[type="text"] {
+  width: 90%;
+  font-size: 20px;
+  border: 2px inset red;
+  border-width: 3px;
+}
+
+body {
+  background-image: url("../img/calculatorapp.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+form {
+  margin: 0 auto;
+  width: 250px;
+}
